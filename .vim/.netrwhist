@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/dr.fruct/Downloads/transportation/transportation'
+let g:netrw_dirhist_2='/Users/dr.fruct/.oh-my-zsh'
+let g:netrw_dirhist_3='/Users/dr.fruct'
+let g:netrw_dirhist_4='/Users/dr.fruct/.oh-my-zsh'
+let g:netrw_dirhist_5='/Users/dr.fruct/Library/Application Support/Tunnelblick/Configurations/home-fish.tblk'
+let g:netrw_dirhist_6='/Users/dr.fruct/Library/Application Support/Tunnelblick/Configurations/home-fish.tblk/Contents'
+let g:netrw_dirhist_7='/Users/dr.fruct/Library/Application Support/Tunnelblick/Configurations/home-fish.tblk/Contents/Resources'
+let g:netrw_dirhist_8='/Users/dr.fruct/.vim'
+let g:netrw_dirhist_9='/Users/dr.fruct'
