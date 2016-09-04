@@ -12,6 +12,7 @@ set shiftwidth=4 softtabstop=4
 set tabstop=4
 
 set ruler
+set relativenumber
 
 " Ignore case when searching
 set ignorecase
